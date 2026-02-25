@@ -75,7 +75,8 @@ antigravityのAIチャットに以下のプロンプトを入力してくださ�
 
 ### STEP 2：アプリ本体の準備
 
-1. 本リポジトリ右側の **[Releases]** から最新の Zip ファイル（`antigravity_auto_press_run_gui_v1.0.0.zip` など）をダウンロードします。
+1. 本リポジトリ右側の **[Releases]** から最新の Zip ファイル（`Antigravity_Auto_Press_Run_GUI_v1.0.0.zip
+` など）をダウンロードします。
 2. ダウンロードしたファイルを右クリックして **「すべて展開（解凍）」** します。
 3. 展開されたフォルダの中にある **`Antigravity Auto Press Run.exe`** （⚡️アイコンのファイル）をダブルクリックして起動します。
 
